@@ -4,10 +4,10 @@ A [fish shell](https://fishshell.com) package to make a time interval human read
 
 ## Installation
 
-With [Fisher](https://github.com/jorgebucaran/fisher)
+With [Fisher](https://github.com/danhper/fundle)
 
 ```
-fisher add fishpkg/fish-humanize-duration
+fundle plugin 'hunter-richardson/fish-humanize-duration'
 ```
 
 ## Usage
