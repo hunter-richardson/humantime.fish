@@ -1,4 +1,4 @@
-# fish-humanize-duration [![CodeFactor](https://www.codefactor.io/repository/github/hunter-richardson/fish-humanize-duration/badge)](https://www.codefactor.io/repository/github/hunter-richardson/fish-humanize-duration)
+# fish-humanize-duration
 
 A [fish shell](https://fishshell.com) package to make a time interval human readable. 
 
