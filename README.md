@@ -13,8 +13,8 @@ fundle plugin 'hunter-richardson/humantime.fish'
 ## Usage
 
 ```fish
-sleep 1
-echo $CMD_DURATION | humanize_duration
+> sleep 1
+> humanize_duration $CMD_DURATION
 1s 5ms
 ```
 
