@@ -7,7 +7,7 @@ A [fish shell](https://fishshell.com) package to make a time interval human read
 With [Fundle](https://github.com/danhper/fundle)
 
 ```
-fundle plugin 'hunter-richardson/fish-humanize-duration'
+fundle plugin 'hunter-richardson/humantime.fish'
 ```
 
 ## Usage
