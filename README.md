@@ -1,4 +1,4 @@
-# fish-humanize-duration
+# humantime.fish
 
 A [fish shell](https://fishshell.com) package to make a time interval human readable. 
 
